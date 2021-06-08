@@ -1,2 +1,6 @@
 # hello-world
 My first repository...
+
+
+Wassup world, It's Moshe, I'm new to this  collabitory type of coding.
+I usually work on small individual, independant projects...
